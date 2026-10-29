@@ -149,14 +149,14 @@ var aIMG = [
    [
     "OTHER WATCHES/WARNINGS",
     //"iframe|https://wxrundown.com/home",
-    "youtube|9NJ1zF2zxOg", //Kilauea
+    "youtube|Z7NQaN9cn4A", //Kilauea
     "youtube|zpVRx505C9w",  //Chino hill EQ monitor
     "youtube|yTqdLGG_HoI",  // world EQ Monitor
     "https://www.spc.noaa.gov/products/watch/validww.png", //TORNADO
     "https://www.spc.noaa.gov/products/outlook/day1otlk_1300.png", //SEVERE WEATHER
     "https://www.weather.gov/wwamap/png/US.png", //SEVERE OUTLOOK
     //"youtube|5KkmVqY_FJ4", //WX Rundown
-     "youtube|t_unhCzbolY" //Asteroid
+     "youtube|xGwV8LUkUMs" //Asteroid
   ],
   [
     "AIR TRAFFIC",
