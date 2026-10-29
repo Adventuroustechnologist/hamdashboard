@@ -132,7 +132,7 @@ var aIMG = [
   ],
   [
     "LIGHTNING",
-    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",
+    "https://images.lightningmaps.org/blitzortung/america/index.php?map=north_middle_america&period=0.25&bo_t=29887457",
     "https://www.blitzortung.org/en/Images/image_b_ny.png"
   ],
   [
