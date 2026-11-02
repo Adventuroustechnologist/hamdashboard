@@ -159,7 +159,9 @@ var aIMG = [
   ],
   [
     "AIR TRAFFIC",
+    "https://map.opensky-network.org/",
     "iframe|https://www.flightradar24.com/39.75,-75.22/7"
+    
  
     
   ],
