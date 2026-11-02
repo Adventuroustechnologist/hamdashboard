@@ -159,7 +159,7 @@ var aIMG = [
   ],
   [
     "AIR TRAFFIC",
-    "iframe|https://tar1090.adsbexchange.com/?airport=PHL",
+    "iframe|https://www.flightradar24.com/39.75,-75.22/7",
    // "iframe|https://globe.adsbexchange.com/?airport=BWI",
    // "iframe|https://globe.adsbexchange.com/?airport=EWR",
    "iframe|https://https://tar1090.adsbexchange.com/?airport=JFK"
