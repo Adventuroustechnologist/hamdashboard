@@ -159,10 +159,8 @@ var aIMG = [
   ],
   [
     "AIR TRAFFIC",
-    "iframe|https://www.flightradar24.com/39.75,-75.22/7",
-   // "iframe|https://globe.adsbexchange.com/?airport=BWI",
-   // "iframe|https://globe.adsbexchange.com/?airport=EWR",
-   "iframe|https://map.opensky-network.org/"
+    "iframe|https://www.flightradar24.com/39.75,-75.22/7"
+ 
     
   ],
   [
